@@ -1,5 +1,7 @@
 ## Guide to data collection. 
 
+Please find the full guidance on data collection here: [https://www.dropbox.com/s/6unl7awyov6yuq6/SOP_COVID%20OR_Pre-discharge_v2.docx?dl=0]
+
 
 ### 1 - Unique ID
 
@@ -33,6 +35,8 @@ Chelsea Critical Care Physical Assessment tool (CPAx) : https://brighton.onlines
 One minute sit to stand: 
 
 Incremental shuttle walk test: 
+
+Grip strenght assessment:
 
 
 ### FITBIT INFO
