@@ -10,7 +10,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
 Initial Patient Assessment 
 
-Click here: https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment
+[Click here] (https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment)
 
 ### 3 - Questionnaire Based Assessments 
 
