@@ -19,7 +19,7 @@ Questionnaire Based Assessments
 
 Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
 
-Quality of Life Questionnaire:
+SF-12 Questionnaire: 
 
 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
 
