@@ -17,19 +17,19 @@ Initial Patient Assessment
 
 Questionnaire Based Assessments
 
-Duke Activity Status Index : https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi
+Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
 
 Quality of Life Questionnaire:
 
-Patient Health Questionnaire-9 (PHQ9): https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9
+Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
 
-Generalised Anxiey Disorder Assessment -7(GAD7) :	https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7
+Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7>
 
 PTSD Screening tool (at 3 months): 
 
 ### 4 - Physical Assessments
 
-Chelsea Critical Care Physical Assessment tool (CPAx) : https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax
+Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
 
 One minute sit to stand: 
 
