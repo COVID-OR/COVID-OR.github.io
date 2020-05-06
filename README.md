@@ -1,6 +1,5 @@
 ## Guide to data collection. 
-
-Please find the full guidance on data collection here: [https://www.dropbox.com/s/6unl7awyov6yuq6/SOP_COVID%20OR_Pre-discharge_v2.docx?dl=0]
+Please find the full guidance on data collection here: <https://www.dropbox.com/s/6unl7awyov6yuq6/SOP_COVID%20OR_Pre-discharge_v2.docx?dl=0>
 
 
 ### 1 - Unique ID
@@ -12,7 +11,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
 Initial Patient Assessment 
 
-[Click here] (https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment)
+<https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment>
 
 ### 3 - Questionnaire Based Assessments 
 
