@@ -19,7 +19,7 @@ Questionnaire Based Assessments
 
 Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
 
-SF-12 Questionnaire: <iframe src="https://brighton.onlinesurveys.ac.uk/sf12" width="620" height="800"></iframe>
+SF-12 Questionnaire: <https://brighton.onlinesurveys.ac.uk/sf12>
 
 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
 
