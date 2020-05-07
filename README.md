@@ -17,6 +17,8 @@ Please contact your local lead for this. You will not be able to enter data with
 This takes a short while to get the patient set up with a smart watch. 
 The guide to doing this can be found here: 
 
+## NB: When filling in the forms below please use the unique ID and no patient identifiable information
+
 ### 3 - Complete Patient Demographic Data form
 
 This forms the Initial Patient Assessment 
