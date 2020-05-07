@@ -22,7 +22,7 @@ The guide to doing this can be found here:
 <https://www.dropbox.com/s/sdgxwy16wy0z2z2/FITBIT%20Charge%203%20Setup.docx?dl=0>
 They are also included on pg X of the full guidance. 
 
-## NB: When filling in the forms below please use the unique ID and no patient identifiable information
+## NB: When filling in the forms below please use the unique study ID and no patient identifiable information
 
 ### 2 - Complete Patient Demographic Data form
 
