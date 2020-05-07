@@ -34,25 +34,25 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ### 3 - Complete Questionnaire Based Assessments 
 
-These are a series of short qualitative forms to be completed by the patient.  
+ These are a series of short qualitative forms to be completed by the patient.  
 
-3.1 Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
+ 3.1 Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
 
-3.2 SF-12 Questionnaire: <https://brighton.onlinesurveys.ac.uk/sf12>
+ 3.2 SF-12 Questionnaire: <https://brighton.onlinesurveys.ac.uk/sf12>
 
-3.3 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
+ 3.3 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
 
-3.4 Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7> 
+ 3.4 Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7> 
 
 ### 4 - Physical Assessments
 
-4.1 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
+ 4.1 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
 
-4.2 One minute sit to stand test: 
+ 4.2 One minute sit to stand test: 
 
-4.3 Incremental shuttle walk test: 
+ 4.3 Incremental shuttle walk test: 
 
-4.4 Grip strenght assessment:
+ 4.4 Grip strenght assessment:
 
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS-wide Critical Care recovery!
