@@ -12,7 +12,7 @@ This includes all the information you need to give to patients and relatives to 
 You will have been given a unique patient ID for each patient in the study. 
 Please contact your local lead for this. You will not be able to enter data without it. 
 
-### 2 - Fitbit allocation 
+### 1.2 - Fitbit allocation 
 
 This takes a short while to get the patient set up with a smart watch. 
 The guide to doing this can be found here: 
