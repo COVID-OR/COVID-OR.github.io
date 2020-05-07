@@ -1,7 +1,7 @@
 ## Guide to data collection. 
 
 Please find the full guidance on data collection here: 
-<https://www.dropbox.com/s/38h0myjapty0w9w/SOP_COVIDOR_Master_07_05.docx?dl=0>
+<>
 
 The Patient information sheets (PIS) can be found here: 
 <>
@@ -20,7 +20,7 @@ Please contact your local lead for this. You will not be able to enter data with
  This takes a short while to get the patient set up with a smart watch.
 
  The guide to doing this can be found here: 
-<https://www.dropbox.com/s/sdgxwy16wy0z2z2/FITBIT%20Charge%203%20Setup.docx?dl=0>
+<https://www.dropbox.com/s/cchholh053t52vw/Fitbit%20Setup%20Formv2.docx?dl=0>
 
  They are also included on pg X of the full guidance. 
 
