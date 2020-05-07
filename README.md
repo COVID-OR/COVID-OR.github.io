@@ -17,9 +17,11 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ###  Fitbit allocation 
 
-This takes a short while to get the patient set up with a smart watch. 
+This takes a short while to get the patient set up with a smart watch.
+\
 The guide to doing this can be found here: 
 <https://www.dropbox.com/s/sdgxwy16wy0z2z2/FITBIT%20Charge%203%20Setup.docx?dl=0>
+\
 They are also included on pg X of the full guidance. 
 
 ## NB: When filling in the forms below please use the unique study ID and no patient identifiable information
