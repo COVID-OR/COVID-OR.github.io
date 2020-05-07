@@ -1,8 +1,11 @@
 ## Guide to data collection. 
 
-Please find the full guidance on data collection here: <https://www.dropbox.com/s/6unl7awyov6yuq6/SOP_COVID%20OR_Pre-discharge_v2.docx?dl=0>
+Please find the full guidance on data collection here: 
+<https://www.dropbox.com/s/6unl7awyov6yuq6/SOP_COVID%20OR_Pre-discharge_v2.docx?dl=0>
 
 The Patient information sheets (PIS) can be found here: 
+<>
+
 This includes all the information you need to give to patients and relatives to enrol in the study. 
 
 ### Stepwise protocol
@@ -12,10 +15,11 @@ This includes all the information you need to give to patients and relatives to 
 You will have been given a unique patient ID for each patient in the study. 
 Please contact your local lead for this. You will not be able to enter data without it. 
 
-### 1.2 - Fitbit allocation 
+###  Fitbit allocation 
 
 This takes a short while to get the patient set up with a smart watch. 
 The guide to doing this can be found here: 
+They are also included on pg X of the guide. 
 
 ## NB: When filling in the forms below please use the unique ID and no patient identifiable information
 
