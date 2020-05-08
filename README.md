@@ -16,7 +16,7 @@ These documents include all the information you need to give to patients and rel
  - Information sheet for relatives: <https://dl.dropboxusercontent.com/s/nx4kn590il1whw7/PIS_V1.1_relatives%20or%20friends_FINAl_TO%20USE.docx?dl=0>
   
  - Information sheet for health professionals: <https://dl.dropboxusercontent.com/s/w7zxqaqjywavf3m/PIS_V1.1_professionals_FINAL%20_TO%20USE.docx?dl=0>
- 
+
 2. The GDPR compliance sheet to give out with all PISs can be downloaded here:
    <https://dl.dropboxusercontent.com/s/3td9lyo3igm8a3y/to%20give%20out%20with%20all%20PISs.pdf?dl=0>
      
