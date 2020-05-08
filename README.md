@@ -41,7 +41,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ### 3 - Complete Questionnaire Based Assessments 
 
- These are a series of short qualitative forms to be completed by the patient.  
+ These are a series of short forms to be completed by the patient.  
 
  3.1 Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
 
