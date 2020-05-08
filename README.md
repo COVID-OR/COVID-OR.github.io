@@ -1,17 +1,17 @@
 ## Guide to data collection. 
 
-Please find the full guidance on data collection here: 
+Please download the full guidance on data collection here: 
 <>
 
 ### Enrolling patients 
 
 Please give the following out to the patient: 
 
-1. The Patient information sheets (PIS) can be found here: 
-<>
+1. The Patient information sheets (PIS) can be downloaded here: 
+<https://dl.dropboxusercontent.com/sh/3z4p9ge4n0k8vq5/AACamKVP43hCukyfZdC9sPzua?dl=0>
 
-2. The GDPR compliance sheet to give out with all PISs
-<>
+2. The GDPR compliance sheet to give out with all PISs can be downloaded here:
+<https://dl.dropboxusercontent.com/s/3td9lyo3igm8a3y/to%20give%20out%20with%20all%20PISs.pdf?dl=0>
 
 This includes all the information you need to give to patients and relatives to enrol in the study. 
 
@@ -55,14 +55,14 @@ Please contact your local lead for this. You will not be able to enter data with
 
  4.1 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
 
- 4.2 One minute sit to stand test: 
+ 4.2 One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test>
 
- 4.3 Incremental shuttle walk test: 
+ 4.3 Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt> 
 
- 4.4 Grip strenght assessment:
+ 4.4 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength>
 
 
-## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS-wide Critical Care recovery!
+## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
 
 ## For any questions / quereies please email: Dr Luke Hodgson (Lead Investigator) luke.hodgson2@nhs.net and please cc alexander.hunter2@nhs.net & toddleckie@nhs.net (Co-investigators). We will be able to torubleshoot your query. 
 
