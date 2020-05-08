@@ -1,33 +1,42 @@
 ## Guide to data collection. 
 
 Please download the full guidance on data collection here: 
-<>
-
+<awaiting finalised doc>
+ 
 ### Enrolling patients 
+ 
+These documents include all the information you need to give to patients and relatives to enrol in the study.
 
-Please give the following out to the patient: 
-
-1. The Patient information sheets (PIS) can be downloaded here: 
-<https://dl.dropboxusercontent.com/sh/3z4p9ge4n0k8vq5/AACamKVP43hCukyfZdC9sPzua?dl=0>
+1. The Patient information sheets (PIS) can be downloaded here:
+ - Consent form for patients: 
+   <https://dl.dropboxusercontent.com/s/8bk4dyuawkpj19v/PIS_V1.1_patients_FINAL_TO%20USE.docx?dl=0>
+ - Information sheet for patients: 
+   <https://dl.dropboxusercontent.com/s/8bk4dyuawkpj19v/PIS_V1.1_patients_FINAL_TO%20USE.docx?dl=0>
+ - Information sheet for relatives:
+   <https://dl.dropboxusercontent.com/s/nx4kn590il1whw7/PIS_V1.1_relatives%20or%20friends_FINAl_TO%20USE.docx?dl=0>
+ - Information sheet for health professionals:
+   <https://dl.dropboxusercontent.com/s/w7zxqaqjywavf3m/PIS_V1.1_professionals_FINAL%20_TO%20USE.docx?dl=0>
 
 2. The GDPR compliance sheet to give out with all PISs can be downloaded here:
-<https://dl.dropboxusercontent.com/s/3td9lyo3igm8a3y/to%20give%20out%20with%20all%20PISs.pdf?dl=0>
-
-This includes all the information you need to give to patients and relatives to enrol in the study. 
-
+   <https://dl.dropboxusercontent.com/s/3td9lyo3igm8a3y/to%20give%20out%20with%20all%20PISs.pdf?dl=0>
+    
+ 
 ### Stepwise protocol
 
 ### 1 - Unique ID
 
 You will have been given a unique patient ID for each patient in the study. 
 Please contact your local lead for this. You will not be able to enter data without it. 
-
+ 
 ###  Fitbit allocation 
-
+ 
  This takes a short while to get the patient set up with a smart watch.
-
- The guide to doing this can be found here: 
-<https://www.dropbox.com/s/cchholh053t52vw/Fitbit%20Setup%20Formv2.docx?dl=0>
+ 
+ Smart watch information sheet for patients can be downloaded here:
+ <https://dl.dropboxusercontent.com/s/ozw8bapbj90p5sf/smartwatch_info_V1_FINAL.docx?dl=0>
+ 
+ The guide to setting up the Fitbit can be found here: 
+ <awaiting final doc>
 
  They are also included on pg X of the full guidance. 
 
@@ -35,9 +44,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ### 2 - Complete Patient Demographic Data form
 
- This is the Initial Patient Assessment. 
-
- <https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment>
+ This is the Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment>
 
 ### 3 - Complete Questionnaire Based Assessments 
 
