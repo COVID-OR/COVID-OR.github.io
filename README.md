@@ -7,7 +7,7 @@ Please download the full guidance on data collection here:
  
 These documents include all the information you need to give to patients and relatives to enrol in the study.
 
-1. The Patient information sheets (PIS) can be downloaded here:
+1.The Patient information sheets (PIS) can be downloaded here:
  
  - Consent form for patients: <https://dl.dropboxusercontent.com/s/8bk4dyuawkpj19v/PIS_V1.1_patients_FINAL_TO%20USE.docx?dl=0>
  
@@ -17,7 +17,7 @@ These documents include all the information you need to give to patients and rel
  
  - Information sheet for health professionals: <https://dl.dropboxusercontent.com/s/w7zxqaqjywavf3m/PIS_V1.1_professionals_FINAL%20_TO%20USE.docx?dl=0>
  
-2. The GDPR compliance sheet to give out with all PISs can be downloaded here:
+2.The GDPR compliance sheet to give out with all PISs can be downloaded here:
    <https://dl.dropboxusercontent.com/s/3td9lyo3igm8a3y/to%20give%20out%20with%20all%20PISs.pdf?dl=0>
      
  
