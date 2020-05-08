@@ -3,7 +3,14 @@
 Please find the full guidance on data collection here: 
 <>
 
-The Patient information sheets (PIS) can be found here: 
+### Enrolling patients 
+
+Please give the following out to the patient: 
+
+1. The Patient information sheets (PIS) can be found here: 
+<>
+
+2. The GDPR compliance sheet to give out with all PISs
 <>
 
 This includes all the information you need to give to patients and relatives to enrol in the study. 
