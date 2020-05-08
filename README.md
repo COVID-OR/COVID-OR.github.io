@@ -1,7 +1,7 @@
 ## Guide to data collection. 
 
 Please download the full guidance on data collection here: 
-<awaiting finalised doc>
+<>
  
 ### Enrolling patients 
  
@@ -35,7 +35,7 @@ Please contact your local lead for this. You will not be able to enter data with
  <https://dl.dropboxusercontent.com/s/ozw8bapbj90p5sf/smartwatch_info_V1_FINAL.docx?dl=0>
  
  The guide to setting up the Fitbit can be found here: 
- <awaiting final doc>
+ <>
 
  They are also included on pg X of the full guidance. 
 
