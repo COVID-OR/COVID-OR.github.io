@@ -71,6 +71,6 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
 
-## For any questions / quereies please email: Dr Luke Hodgson (Lead Investigator) <luke.hodgson2@nhs.net> and please cc alexander.hunter2@nhs.net & toddleckie@nhs.net (Co-investigators). We will be able to torubleshoot your query. 
+## For any questions / quereies please email: Dr Luke Hodgson (Lead Investigator) <luke.hodgson2@nhs.net> and please cc <alexander.hunter2@nhs.net> & <toddleckie@nhs.net> (Co-investigators). We will be able to torubleshoot your query. 
 
  
