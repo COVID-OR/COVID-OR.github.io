@@ -1,6 +1,6 @@
 ## Guide to data collection. 
 
-Please download the full guidance on data collection here: 
+### Please download the full guidance on data collection here: 
 <https://dl.dropboxusercontent.com/s/2i2lrh4y0phhzax/SOP_COVIDOR_Master_v4.docx?dl=0>
  
 ### Enrolling patients 
