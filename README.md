@@ -1,7 +1,7 @@
 ## Guide to data collection. 
 
 Please download the full guidance on data collection here: 
-<>
+<https://dl.dropboxusercontent.com/s/2i2lrh4y0phhzax/SOP_COVIDOR_Master_v4.docx?dl=0>
  
 ### Enrolling patients 
  
@@ -36,9 +36,9 @@ Please contact your local lead for this. You will not be able to enter data with
  <https://dl.dropboxusercontent.com/s/ozw8bapbj90p5sf/smartwatch_info_V1_FINAL.docx?dl=0>
  
  The guide to setting up the Fitbit and the form to write patients username and password on can be found here: 
- <>
+ <https://dl.dropboxusercontent.com/s/3ibmcqpsia7onjn/Fitbit%20Setup%20Formv3.docx?dl=0>
 
- They are also included on pg X of the full guidance. 
+ They are also included on pg 3-4 of the full guidance. 
 
 ## NB: When filling in the forms below please use the unique study ID and no patient identifiable information
 
@@ -71,6 +71,6 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
 
-## For any questions / quereies please email: Dr Luke Hodgson (Lead Investigator) <luke.hodgson2@nhs.net> and please cc <alexander.hunter2@nhs.net> & <toddleckie@nhs.net> (Co-investigators). We will be able to torubleshoot your query. 
+## For any questions / quereies please email: Dr Alex Hunter <alexander.hunter2@nhs.net> and cc Dr Luke Hodgson (Lead Investigator) <luke.hodgson2@nhs.net>. We will be able to torubleshoot your query. 
 
  
