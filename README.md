@@ -1,7 +1,7 @@
 ## Guide to data collection. 
 
 ### Please download the full guidance on data collection here: 
-<https://dl.dropboxusercontent.com/s/2i2lrh4y0phhzax/SOP_COVIDOR_Master_v4.docx?dl=0>
+<https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v1.docx?dl=0>
  
 ### Enrolling patients 
  
@@ -28,7 +28,7 @@ These documents include all the information you need to give to patients and rel
 You will have been given a unique patient ID for each patient in the study. 
 Please contact your local lead for this. You will not be able to enter data without it. 
  
-###  Fitbit allocation 
+###  2- Fitbit allocation 
  
  This takes a short while to get the patient set up with a smart watch.
  
@@ -42,31 +42,32 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ## NB: When filling in the forms below please use the unique study ID and no patient identifiable information
 
-### 2 - Complete Patient Demographic Data form
+### 3 - Complete Patient Demographic Data form
 
  This is the Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment>
 
-### 3 - Complete Questionnaire Based Assessments 
+### 4 - Complete Questionnaire Based Assessments 
 
  These are a series of short forms to be completed by the patient.  
 
- 3.1 Duke Activity Status Index : <https://brighton.onlinesurveys.ac.uk/duke-activity-status-index-dasi>
+ 4.1 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
 
- 3.2 SF-12 Questionnaire: <https://brighton.onlinesurveys.ac.uk/sf12>
+ 4.2 Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7> 
 
- 3.3 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
+ 4.3 SF-12 Questionnaire: <https://brighton.onlinesurveys.ac.uk/sf12>
 
- 3.4 Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7> 
 
-### 4 - Physical Assessments
+### 5 - Physical Assessments
 
- 4.1 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
+ 5.1 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
 
- 4.2 One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test>
+ 5.2 One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test>
 
- 4.3 Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt> 
+ 5.3 Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt> 
 
- 4.4 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength>
+ 5.4 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength>
+
+ 5.5 Pre discharge weight 
 
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
