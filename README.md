@@ -67,7 +67,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
  5.4 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength>
 
- 5.5 Pre discharge weight 
+ 5.5 Pre discharge weight <https://brighton.onlinesurveys.ac.uk/pre-discharge-weight>
 
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
