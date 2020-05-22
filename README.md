@@ -44,7 +44,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ### 3 - Complete Patient Demographic Data form
 
- This is the Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-initial-assessment>
+ This is the Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or>
 
 ### 4 - Complete Questionnaire Based Assessments 
 
