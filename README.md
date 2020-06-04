@@ -1,7 +1,7 @@
 ## Guide to data collection. 
 
 ### Please download the full guidance on data collection here: 
-<https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v1.docx?dl=0>
+<https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
  
 ### Enrolling patients 
  
