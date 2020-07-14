@@ -19,7 +19,7 @@ EQ-5D-5L: <https://brighton.onlinesurveys.ac.uk/eq-5d-5l>
 
 3 month weight: <https://brighton.onlinesurveys.ac.uk/3-month-weight>
 
----------------------------- 
+-----------------------------
  
 ### Enrolling patients 
  
