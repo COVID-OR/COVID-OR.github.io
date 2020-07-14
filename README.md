@@ -1,7 +1,22 @@
 ## Guide to data collection. 
 
 ### Please download the full guidance on data collection here: 
-<https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
+PHASE 1: <https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
+PHASE 2 (3months): 
+
+### For PHASE 2: 
+
+Please use the surveys below as for PHASE 1. They are time stamped and so it will be obvious which survey is at discharge and 3 months. 
+
+#### Phase 2 specific surveys:
+
+Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review-questionnaire>
+
+SF-36:
+
+EQ-5D-5L: 
+
+---------------------------- 
  
 ### Enrolling patients 
  
