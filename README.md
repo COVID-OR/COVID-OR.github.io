@@ -1,8 +1,9 @@
 ## Guide to data collection. 
 
-### Please download the full guidance on data collection here: 
+### Full guidance on data collection can be downloaded here: 
+(NB this can be emailed, as some NHS systems will block download via firewall)
 PHASE 1: <https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
-PHASE 2 (3months): 
+PHASE 2 (3months): <https://dl.dropboxusercontent.com/s/2e5ssmhp9zt9hlp/SOP_COVIDOR_Phase2_Final.docx?dl=0>
 
 ### For PHASE 2: 
 
@@ -12,9 +13,11 @@ Please use the surveys below as for PHASE 1 in sections 4 & 5. They are time sta
 
 Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review-questionnaire>
 
-SF-36:
+SF-36: <https://brighton.onlinesurveys.ac.uk/sf-36>
 
-EQ-5D-5L: 
+EQ-5D-5L: <https://brighton.onlinesurveys.ac.uk/eq-5d-5l>
+
+3 month weight: <https://brighton.onlinesurveys.ac.uk/3-month-weight>
 
 ---------------------------- 
  
@@ -69,7 +72,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
  4.2 Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7> 
 
- 4.3 SF-12 Questionnaire: <https://brighton.onlinesurveys.ac.uk/sf12>
+ 4.3 SF-12 Questionnaire (NOT FOR PHASE 2, see SF-36): <https://brighton.onlinesurveys.ac.uk/sf12>
 
 
 ### 5 - Physical Assessments
@@ -82,7 +85,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
  5.4 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength>
 
- 5.5 Pre discharge weight <https://brighton.onlinesurveys.ac.uk/pre-discharge-weight>
+ 5.5 Pre discharge weight (NOT FOR PHASE 2, see 3 month weight above): <https://brighton.onlinesurveys.ac.uk/pre-discharge-weight>
 
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
