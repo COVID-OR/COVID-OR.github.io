@@ -1,7 +1,9 @@
 ## Guide to data collection. 
 
-### Full guidance on data collection can be downloaded here: 
+### Full guidance on data collection can be downloaded here:
+
 (NB this can be emailed, as some NHS systems will block download via firewall)
+
 PHASE 1: <https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
 PHASE 2 (3months): <https://dl.dropboxusercontent.com/s/2e5ssmhp9zt9hlp/SOP_COVIDOR_Phase2_Final.docx?dl=0>
 
