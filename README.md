@@ -6,7 +6,7 @@ PHASE 2 (3months):
 
 ### For PHASE 2: 
 
-Please use the surveys below as for PHASE 1. They are time stamped and so it will be obvious which survey is at discharge and 3 months. 
+Please use the surveys below as for PHASE 1 in sections 4 & 5. They are time stamped and so it will be obvious which survey is at discharge and 3 months. 
 
 #### Phase 2 specific surveys:
 
