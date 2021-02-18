@@ -6,23 +6,48 @@
 
 PHASE 1: <https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
 
-PHASE 2 (3months): <https://dl.dropboxusercontent.com/s/2e5ssmhp9zt9hlp/SOP_COVIDOR_Phase2_Final.docx?dl=0>
+PHASE 2 (3months): HAS NOW CLOSED. Please contact COVID-OR team if you still require these links.
 
-### For PHASE 2: 
+PHASE 3 (1 year): OPEN
 
-Please use the surveys below as for PHASE 1 in sections 4 & 5. They are time stamped and so it will be obvious which survey is at discharge and 3 months. 
+### For PHASE 3 (1 YEAR FOLLOW UP): 
+#### PLEASE REMEMBER TO USE THE UNIQUE PATIENT ID eg "CVORW001" when completing the forms. 
 
-#### Phase 2 specific surveys:
+Please use the following survey links:
 
-Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review-questionnaire>
+#### Physical assessments
 
-SF-36: <https://brighton.onlinesurveys.ac.uk/sf-36>
+Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/covid-or-chelsea-critical-care-physical-assessment-tool-c>
 
-EQ-5D-5L: <https://brighton.onlinesurveys.ac.uk/eq-5d-5l>
+One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test>
 
-3 month weight: <https://brighton.onlinesurveys.ac.uk/3-month-weight>
+Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt-12-month> 
+
+Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength-12-month>
+
+#### Psychological assessments/ QOL assessments
+
+ These are a series of short forms to be completed by the patient.  
+
+Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/covid-or-patient-health-questionnaire-9-12-month>
+
+Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/covid-or-generalised-anxiety-disorder-assessment-7-12-mo> 
+
+SF-36: <https://brighton.onlinesurveys.ac.uk/covid-or-sf-36-survey-12-month>
+
+EQ-5D-5L: <https://brighton.onlinesurveys.ac.uk/eq-5d-5l-12-month>
+
+
+####  Other assessments
+
+Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review-questionnaire-12-month>
+
+Weight: <https://brighton.onlinesurveys.ac.uk/12-month-weight>
+
+
 
 -----------------------------
+HISOTRICAL INFO FROM PHASE 1
  
 ### Enrolling patients 
  
@@ -66,30 +91,6 @@ Please contact your local lead for this. You will not be able to enter data with
 ### 3 - Complete Patient Demographic Data form
 
  This is the Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or>
-
-### 4 - Complete Questionnaire Based Assessments 
-
- These are a series of short forms to be completed by the patient.  
-
- 4.1 Patient Health Questionnaire-9 (PHQ9): <https://brighton.onlinesurveys.ac.uk/patient-health-questionnaire-9>
-
- 4.2 Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurveys.ac.uk/generalised-anxiety-disorder-assessment-7> 
-
- 4.3 SF-12 Questionnaire (NOT FOR PHASE 2, see SF-36): <https://brighton.onlinesurveys.ac.uk/sf12>
-
-
-### 5 - Physical Assessments
-
- 5.1 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/chelsea-critical-care-physical-assessment-tool-cpax>
-
- 5.2 One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test>
-
- 5.3 Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt> 
-
- 5.4 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength>
-
- 5.5 Pre discharge weight (NOT FOR PHASE 2, see 3 month weight above): <https://brighton.onlinesurveys.ac.uk/pre-discharge-weight>
-
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
 
