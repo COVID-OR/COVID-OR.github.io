@@ -11,7 +11,7 @@ Please use the following survey links:
 
 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/covid-or-chelsea-critical-care-physical-assessment-tool-c>
 
-One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test>
+One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one-minute-sit-to-stand-test-12-month>
 
 Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt-12-month> 
 
