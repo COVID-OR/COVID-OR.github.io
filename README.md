@@ -1,12 +1,4 @@
-## Guide to data collection. 
-
-### Full guidance on data collection can be downloaded here:
-
-(NB this can be emailed, as some NHS systems will block download via firewall)
-
-PHASE 1: <https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
-
-PHASE 2 (3months): HAS NOW CLOSED. Please contact COVID-OR team if you still require these links.
+## Guide to data collection. We are now collecting data for the 1 year follow up (Phase 3).
 
 PHASE 3 (1 year): OPEN
 
@@ -44,10 +36,18 @@ Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review
 
 Weight: <https://brighton.onlinesurveys.ac.uk/12-month-weight>
 
-
+--END--
 
 -----------------------------
 HISOTRICAL INFO FROM PHASE 1
+
+### Full guidance on data collection can be downloaded here:
+
+(NB this can be emailed, as some NHS systems will block download via firewall)
+
+PHASE 1: <https://dl.dropboxusercontent.com/s/idur44wbeuc70gk/SOP_COVIDOR_Phase1_v2.docx?dl=0>
+
+PHASE 2 (3months): HAS NOW CLOSED. Please contact COVID-OR team if you still require these links.
  
 ### Enrolling patients 
  
