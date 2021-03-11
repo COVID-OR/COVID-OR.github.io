@@ -6,9 +6,10 @@ description: Please use the following link for retrospectively recruiting patien
 
 ---
 
-## PLease use the links to the following surveys to complete data input AT DISCHARGE. 
+## PLease use the links to the following surveys for data input. 
+### Note: these surveys are for retrospective data collection of at discharge data.  
 
-#### PLEASE REMEMBER TO USE THE UNIQUE PATIENT ID eg "CVORW001" that will have been given to you by the study teams. 
+#### REMEMBER to use the unique study ID (eg "CVORW001") that will have been given to you by the study team. 
 
 ------------------
 
@@ -36,6 +37,8 @@ description: Please use the following link for retrospectively recruiting patien
 8. EQ5D Questionnaire:
 
 
+-------------------
+
 ### Enrolling patients 
  
 These documents include all the information you need to give to patients and relatives to enrol in the study.
@@ -52,6 +55,7 @@ These documents include all the information you need to give to patients and rel
  
 2.The GDPR compliance sheet to give out with all PISs can be downloaded here: (must be given out to patients)
    <https://dl.dropboxusercontent.com/s/3td9lyo3igm8a3y/to%20give%20out%20with%20all%20PISs.pdf?dl=0>
+     
      
 --------------------  
    
