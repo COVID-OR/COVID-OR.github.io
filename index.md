@@ -36,7 +36,6 @@ Weight: <https://brighton.onlinesurveys.ac.uk/12-month-weight>
 
 Readmission survey: <https://brighton.onlinesurveys.ac.uk/covid-or-readmission-survey>
 
---END--
 
 -----------------------------
 FOR PHASE 1 SURVEYS (Initial data collection) please use the following links
@@ -90,7 +89,7 @@ Please contact your local lead for this. You will not be able to enter data with
 
 ### 3 - Complete Patient Demographic Data form
 
- This is the Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or>
+ 
 
 ## Once again thank you for your work on the study. We hope this will be a landmark piece in KSS wide critical care recovery!
 
