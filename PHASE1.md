@@ -6,7 +6,7 @@ description: Please use the following link for retrospectively recruiting patien
 
 ---
 
-## PLease use the links to the following surveys for data input. 
+## Please use the links to the following surveys for data input. 
 ### Note: these surveys are for retrospective data collection of at discharge data.  
 
 #### REMEMBER to use the unique study ID (eg "CVORW001") that will have been given to you by the study team. 
