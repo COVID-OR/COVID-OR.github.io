@@ -6,23 +6,34 @@ description: Please use the following link for retrospectively recruiting patien
 
 ---
 
+## PLease use the links to the following surveys to complete data input AT DISCHARGE. 
+
+#### PLEASE REMEMBER TO USE THE UNIQUE PATIENT ID eg "CVORW001" that will have been given to you by the study teams. 
+
+------------------
+
 1. Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or>
   
-### At discharge
   
-Chelsea critical care physical asessment
+2. Chelsea critical care physical asessment
   
-Sit to stand at discharge
+  
+3. Sit to stand at discharge
 
-Incremental Shuttle walk test at discharge
+
+4. Incremental Shuttle walk test at discharge
   
-Grip Strength:
+
+5. Grip Strength:
   
-PHQ 9 Questionnaire:
+
+6. PHQ 9 Questionnaire:
   
-GAD 7 Questionnaire:
   
-EQ5D Questionnaire:
+7. GAD 7 Questionnaire:
+  
+
+8. EQ5D Questionnaire:
 
 
 ### Enrolling patients 
@@ -45,4 +56,4 @@ These documents include all the information you need to give to patients and rel
   
    
   
-[HOME](./index.md)
+Click here to go:[HOME](./index.md)
