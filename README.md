@@ -1,8 +1,8 @@
-## Guide to data collection. We are now collecting data for the 1 year follow up (Phase 3).
+# We are now collecting data for the 1 year follow up (Phase 3).
 
-PHASE 3 (1 year): OPEN
 
-### For PHASE 3 (1 YEAR FOLLOW UP): 
+### These surveys are listed below with links attached.
+
 #### PLEASE REMEMBER TO USE THE UNIQUE PATIENT ID eg "CVORW001" when completing the forms. 
 
 Please use the following survey links:
@@ -36,10 +36,12 @@ Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review
 
 Weight: <https://brighton.onlinesurveys.ac.uk/12-month-weight>
 
+Readmission survey: <https://brighton.onlinesurveys.ac.uk/covid-or-readmission-survey>
+
 --END--
 
 -----------------------------
-HISOTRICAL INFO FROM PHASE 1
+FOR PHASE 1 SURVEYS (Initial data collection) please use the following links
 
 ### Full guidance on data collection can be downloaded here:
 
