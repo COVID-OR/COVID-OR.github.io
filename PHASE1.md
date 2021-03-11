@@ -59,5 +59,8 @@ These documents include all the information you need to give to patients and rel
      
 --------------------  
    
+## For any questions / quereies please email: Dr Alex Hunter <alexander.hunter2@nhs.net> and cc Dr Luke Hodgson (Lead Investigator) <luke.hodgson2@nhs.net>. We will be able to torubleshoot your query. 
+
+---------------
   
 Click here to go:[HOME](./index.md)
