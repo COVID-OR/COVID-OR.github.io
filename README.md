@@ -5,8 +5,6 @@
 
 #### PLEASE REMEMBER TO USE THE UNIQUE PATIENT ID eg "CVORW001" when completing the forms. 
 
-Please use the following survey links:
-
 #### Physical assessments
 
 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/covid-or-chelsea-critical-care-physical-assessment-tool-c>
