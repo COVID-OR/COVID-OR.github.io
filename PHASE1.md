@@ -13,7 +13,7 @@ description: Please use the following link for retrospectively recruiting patien
 
 ------------------
 
-1. Initial Patient Assessment: <https://brighton.onlinesurveys.ac.uk/covid-or>
+1. Initial Patient Assessment: awaiting reboot EDD: 15/03/21
   
   
 2. Chelsea critical care physical asessment: <https://brighton.onlinesurveys.ac.uk/covid-or-chelsea-critical-care-physical-assessment-tool-d>
