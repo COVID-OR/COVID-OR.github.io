@@ -41,7 +41,7 @@ Readmission survey: <https://brighton.onlinesurveys.ac.uk/covid-or-readmission-s
 
  
 ## Once again thank you for your work on the study.  
-A [Sussex Critical](https://http://sussexcritical.com/) Collaboration
+A [Sussex Critical](https://http://sussexcritical.com/) Project
 
 ## For any questions / quereies please email: Dr Alex Hunter <alexander.hunter2@nhs.net> and cc Dr Luke Hodgson (Lead Investigator) <luke.hodgson2@nhs.net>. We will be able to torubleshoot your query. 
 
