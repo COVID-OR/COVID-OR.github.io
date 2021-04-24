@@ -1,5 +1,6 @@
 # We are now collecting data for the 1 year follow up (Phase 3).
 ## For retrospective collection (ie discharge data) please click here: [Phase 1](./PHASE1.md)
+## If you are recruiting patients from the 2nd wave (admitted after 1st Sept 2020) then please click here: [2nd WAVE](./2ndwave.md)
 
 ### These surveys are listed below with links attached.
 
