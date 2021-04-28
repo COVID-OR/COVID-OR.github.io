@@ -6,6 +6,13 @@
 
 #### PLEASE REMEMBER TO USE THE UNIQUE PATIENT ID eg "CVORW001" when completing the forms. 
 
+
+####  Fitbit review & Readmission survey
+
+Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review-questionnaire-12-month>
+
+Readmission survey: <https://brighton.onlinesurveys.ac.uk/covid-or-readmission-survey>
+
 #### Physical assessments
 
 Chelsea Critical Care Physical Assessment tool (CPAx) : <https://brighton.onlinesurveys.ac.uk/covid-or-chelsea-critical-care-physical-assessment-tool-c>
@@ -15,6 +22,8 @@ One minute sit to stand test: <https://brighton.onlinesurveys.ac.uk/covid-or-one
 Incremental shuttle walk test: <https://brighton.onlinesurveys.ac.uk/covid-or-iswt-12-month> 
 
 Grip strenght assessment: <https://brighton.onlinesurveys.ac.uk/covid-or-grip-strength-12-month>
+
+Weight: <https://brighton.onlinesurveys.ac.uk/12-month-weight>
 
 #### Psychological assessments/ QOL assessments
 
@@ -27,16 +36,6 @@ Generalised Anxiey Disorder Assessment -7(GAD7) :	<https://brighton.onlinesurvey
 SF-36: <https://brighton.onlinesurveys.ac.uk/covid-or-sf-36-survey-12-month>
 
 EQ-5D-5L: <https://brighton.onlinesurveys.ac.uk/eq-5d-5l-12-month>
-
-
-####  Other assessments
-
-Fitbit Review Questionnaire: <https://brighton.onlinesurveys.ac.uk/fitbit-review-questionnaire-12-month>
-
-Weight: <https://brighton.onlinesurveys.ac.uk/12-month-weight>
-
-Readmission survey: <https://brighton.onlinesurveys.ac.uk/covid-or-readmission-survey>
-
 
 -----------------------------
 
