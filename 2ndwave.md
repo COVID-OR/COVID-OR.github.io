@@ -5,3 +5,5 @@
 
 ### Initial assessment patient survey 2nd wave <https://brighton.onlinesurveys.ac.uk/2nd-wave-survey>
 
+### 3 month EQ-5D-5L survey <https://brighton.onlinesurveys.ac.uk/eq-5d-5l-3-month>
+
